@@ -18,8 +18,8 @@ Classfication using regression ML algorithm applied to Breast Cancer dataset to 
 
 ## The dataset consists of the following fields :
 
-1-Sample code number: id number
-2-Clump Thickness: 1 - 10
+1. Sample code number: id number
+2. Clump Thickness: 1 - 10
 3-Uniformity of Cell Size: 1 - 10
 4-Uniformity of Cell Shape: 1 - 10
 5-Marginal Adhesion: 1 - 10
