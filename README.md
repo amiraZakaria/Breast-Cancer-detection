@@ -1,6 +1,6 @@
 # Breast-Cancer-detection
 
-Classfication using regression ML algorithm applied to Breast Cancer dataset to predict whether a tumor is benign or malignant
+Classfication using logistic regression ML algorithm applied to Breast Cancer dataset to predict whether a tumor is benign or malignant
 
 # Description 
 
