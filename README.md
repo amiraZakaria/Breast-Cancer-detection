@@ -5,9 +5,13 @@ Classfication using regression ML algorithm applied to Breast Cancer dataset to 
 # Description 
 
 1-Programming language: R
+
 2-data cleaning and preparation.
+
 3-Built a Statistical model to detect whether the patient has Malignant or Benign tumor.
+
 4-Visualized Training data and testing data 
+
 5-Accuracy 
 
 # Dataset information 
